@@ -27,6 +27,7 @@ jupyter = [
     "rich>=14.3.2",
     "openai>=2.0.0",
     "mcp>=1.26.0",
+    "nest_asyncio>=1.6.0",
 ]
 all = ["illustrated-agents[jupyter,terminal]"]
 
